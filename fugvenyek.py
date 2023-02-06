@@ -81,3 +81,5 @@ def add2(*szam):
 print(add2(1))
 print(add2(1,2))
 print(add2(1,2,3,4,5))
+
+#print(add2("a","b"))
